@@ -1,6 +1,6 @@
 var urlmain = document.URL;
 var md = document.URL.split("/")[3];
-var key = '_ADYtvX';
+var key = '_ADYtvX'("/")[4];
 var id = document.URL.split("/")[5];
 
 if (md == 'deep') {
