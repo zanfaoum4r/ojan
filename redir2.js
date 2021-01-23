@@ -1,6 +1,6 @@
 var urlmain = document.URL;
 var md = document.URL.split("/")[3];
-var key = document.URL.split("/")[4];
+var key = '_ADYtvX';
 var id = document.URL.split("/")[5];
 
 if (md == 'deep') {
@@ -8,7 +8,6 @@ if (md == 'deep') {
 } else { 
   var redir = 'https://s.click.aliexpress.com/e/'+key;
 }
-var key = '_ADYtvX';
 
 setTimeout(
   function(){
